@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "id": "matcha-benefits-infographic",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "wellness",
+      "infographic",
+      "minimal",
+      "food",
+      "education"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Radial Wellness Infographic",
+    "goal": "Explain wellness benefits using clean radial layouts and minimal typography"
+  },
+
+  "content": {
+    "scene_description": "A top-down view of a rustic ceramic cup filled with frothy green matcha tea.",
+    "overlay_text": "Headline and floating benefit labels around the cup."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "minimalist wellness infographic",
+    "subject_style": {
+      "outline": "none, photorealistic flat lay"
+    },
+    "text_style": {
+      "placement": "radial labels around subject",
+      "font_vibe": "rounded modern sans-serif"
+    },
+    "composition": {
+      "framing": "central circular subject",
+      "depth": "subtle flat-lay shadowing"
+    }
+  }
+}

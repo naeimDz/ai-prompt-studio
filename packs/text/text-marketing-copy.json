@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "text-marketing-copy",
+    "type": "text",
+    "tags": ["marketing","copywriting","social","ads","short-form"]
+  },
+  "intent": {
+    "pattern_name": "Marketing Copy / Tagline Generator",
+    "goal": "Generate catchy marketing text, social media posts, or ad taglines",
+    "context": "Ecommerce, social media campaigns, email newsletters"
+  },
+  "settings": {
+    "tone": "friendly, persuasive, engaging",
+    "length": "short-form (1-3 sentences)"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "interior-catalog-split",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "interior",
+      "architecture",
+      "scandinavian",
+      "catalog",
+      "commercial",
+      "cta"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Interior Catalog Image + CTA Footer",
+    "goal": "Produce clean interior design catalog visuals with a strong call-to-action footer"
+  },
+
+  "content": {
+    "scene_description": "A straight-on elevation view of a minimalist kitchen counter featuring walnut cabinets, white countertop, light grey herringbone backsplash, and modern grey range hood.",
+    "overlay_text": "Headline: 'Simplicity Meets Elegance'. Footer: 'Live Light. Live Beautiful'. Button: 'Buy Now'."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "high-end interior catalog, Scandinavian minimalism",
+    "subject_style": {
+      "outline": "none",
+      "pose_vibe": "symmetrical, uncluttered"
+    },
+    "background_style": {
+      "type": "image top, white footer bottom",
+      "lighting": "soft natural light"
+    },
+    "text_style": {
+      "placement": "headline overlay on image, CTA in footer",
+      "font_vibe": "bold geometric sans-serif headline, clean body"
+    },
+    "color_palette": {
+      "tones": "walnut brown, beige, white, grey",
+      "contrast": "balanced"
+    },
+    "composition": {
+      "framing": "horizontal bands",
+      "depth": "flat architectural elevation"
+    }
+  }
+}

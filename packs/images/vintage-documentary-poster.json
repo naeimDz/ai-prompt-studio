@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "id": "vintage-documentary-poster",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "vintage",
+      "nostalgia",
+      "documentary",
+      "automotive",
+      "editorial"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Vintage Documentary Editorial Poster",
+    "goal": "Create nostalgic documentary-style posters with heavy typography over rich photographic scenes"
+  },
+
+  "content": {
+    "scene_description": "A close-up front view of a classic antique car in a cluttered vintage garage.",
+    "overlay_text": "Headline: 'VINTAGE COLLECTION'. Body text describing nostalgia and craftsmanship."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "sepia-toned rustic industrial documentary",
+    "subject_style": {
+      "outline": "none, photorealistic",
+      "pose_vibe": "static, grounded composition"
+    },
+    "background_style": {
+      "type": "cluttered vintage workshop",
+      "lighting": "low-key ambient indoor lighting"
+    },
+    "text_style": {
+      "placement": "headline top, body text lower left",
+      "font_vibe": "retro display headline + clean sans-serif body"
+    },
+    "composition": {
+      "framing": "off-center subject allowing text space",
+      "depth": "deep depth of field"
+    }
+  }
+}

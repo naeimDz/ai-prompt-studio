@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "candid-moment-handwritten",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "lifestyle",
+      "candid",
+      "handwritten",
+      "parenting",
+      "instagram"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Candid Lifestyle Moment with Handwritten Caption",
+    "goal": "Create warm, natural lifestyle visuals with casual handwritten text overlays"
+  },
+
+  "content": {
+    "scene_description": "A toy truck in the sand.",
+    "overlay_text": "It's playtime today."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "warm, soft, natural outdoor aesthetic with gentle lighting",
+    "subject_style": {
+      "outline": "white hand-drawn sticker-style outline around main subject",
+      "pose_vibe": "candid moment, relaxed, natural"
+    },
+    "background_style": {
+      "type": "nature scenery, soft focus mountains or fields",
+      "lighting": "golden hour glow, subtle haze"
+    },
+    "text_style": {
+      "placement": "handwritten text at top or upper area of image",
+      "font_vibe": "casual, flowing, handwritten marker-like",
+      "extra_elements": "optional doodles such as arrows or spark-like lines"
+    },
+    "illustrative_elements": {
+      "doodles": "simple white line doodles (arrows, highlights, curves)",
+      "integration": "doodles should feel naturally layered over the photo"
+    },
+    "color_palette": {
+      "tones": "earthy greens, browns, muted blues, warm sunlight",
+      "contrast": "soft and gentle, not harsh"
+    },
+    "composition": {
+      "framing": "subject framed centrally or slightly offset",
+      "depth": "background slightly blurred for emphasis on subject"
+    }
+  }
+}

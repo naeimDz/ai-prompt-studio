@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "tech-feature-grid",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "tech",
+      "wearable",
+      "features",
+      "commercial",
+      "ecommerce",
+      "grid"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Product in Use + Feature Grid Layout",
+    "goal": "Present a tech product with a structured grid of features and icons"
+  },
+
+  "content": {
+    "scene_description": "A close-up photo of a wrist wearing a white smartwatch displaying a stylized number 7.",
+    "overlay_text": "Brand, headline, feature grid, and new arrival badge."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "clean modern tech advertisement",
+    "subject_style": {
+      "outline": "none",
+      "pose_vibe": "natural product-in-use shot"
+    },
+    "background_style": {
+      "type": "light cream background with subtle pattern",
+      "lighting": "soft warm studio light"
+    },
+    "text_style": {
+      "placement": "brand top left, features grid bottom left",
+      "font_vibe": "modern sans-serif with orange accents"
+    },
+    "color_palette": {
+      "tones": "orange, beige, white, black",
+      "contrast": "soft with strong accent highlights"
+    },
+    "composition": {
+      "framing": "asymmetrical left text / right product",
+      "depth": "shallow depth of field"
+    }
+  }
+}

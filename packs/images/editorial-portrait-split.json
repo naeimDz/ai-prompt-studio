@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "id": "editorial-portrait-split",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "beauty",
+      "editorial",
+      "luxury",
+      "skincare",
+      "ads"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Editorial Portrait + Typography Split",
+    "goal": "Produce premium beauty ads combining close-up portraits with clean editorial typography"
+  },
+
+  "content": {
+    "scene_description": "A close-up portrait of a person with dewy, radiant skin.",
+    "headline_text": "Glowing skin starts here.",
+    "supporting_text": "Discover the routine that transforms your complexion."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "modern, premium skincare advertisement with a clean editorial layout",
+    "portrait_style": {
+      "crop": "extreme close-up, eyes centered",
+      "lighting": "soft diffused beauty lighting",
+      "skin_tone": "natural and realistic",
+      "background": "neutral subtle gradient"
+    },
+    "layout_style": {
+      "structure": "portrait on top, typography block at bottom",
+      "background_bottom": "warm off-white"
+    },
+    "text_style": {
+      "headline_typography": {
+        "font_vibe": "elegant high-contrast serif",
+        "placement": "bottom-left",
+        "scale": "large"
+      },
+      "supporting_typography": {
+        "font_vibe": "refined serif",
+        "placement": "bottom-right"
+      }
+    },
+    "composition": {
+      "balance": "visual weight on portrait, textual weight below",
+      "negative_space": "generous, premium"
+    }
+  }
+}

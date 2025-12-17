@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "monochrome-product-hero",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "product",
+      "monochrome",
+      "studio",
+      "retail",
+      "minimal",
+      "poster"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Monochrome Product Hero with Typographic Stack",
+    "goal": "Highlight a single product using a monochromatic studio background and bold typography"
+  },
+
+  "content": {
+    "scene_description": "A front-facing pair of oversized sunglasses with translucent bright green frames and dark gradient lenses.",
+    "overlay_text": "Top: 'NEW'. Headline: 'CLASSY GLASSES'. Bottom description text."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "sleek monochromatic product advertisement",
+    "subject_style": {
+      "outline": "none",
+      "pose_vibe": "centered floating product"
+    },
+    "background_style": {
+      "type": "smooth gradient background matching product color",
+      "lighting": "studio softbox"
+    },
+    "text_style": {
+      "placement": "centered vertical stack",
+      "font_vibe": "wide modern sans-serif, white"
+    },
+    "color_palette": {
+      "tones": "single-hue variations with white text",
+      "contrast": "clean and crisp"
+    },
+    "composition": {
+      "framing": "symmetrical",
+      "depth": "soft shadow anchoring product"
+    }
+  }
+}

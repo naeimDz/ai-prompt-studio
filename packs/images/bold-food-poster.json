@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "bold-food-poster",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "food",
+      "fast-food",
+      "bold",
+      "urban",
+      "poster"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Bold Cut-Out Food Poster",
+    "goal": "Create high-impact fast-food posters with strong contrast and playful typography"
+  },
+
+  "content": {
+    "main_subject": "A fully loaded spicy fried chicken sandwich.",
+    "primary_text": "Fire Chicken",
+    "tagline_text": "Crunch. Heat. Repeat."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "bold, high-energy, urban fast-food poster with playful cartoon typography",
+    "background_style": {
+      "top_section": {
+        "color": "deep textured red",
+        "texture": "grunge, distressed paint texture"
+      },
+      "bottom_section": {
+        "color": "warm cream or light beige",
+        "transition": "hard horizontal split"
+      }
+    },
+    "subject_style": {
+      "type": "centered cut-out subject",
+      "lighting": "dramatic directional lighting with high contrast",
+      "edges": "clean cut-out with slight shadow"
+    },
+    "typography": {
+      "primary_text": {
+        "font_vibe": "chunky cartoon lettering with black outline",
+        "placement": "centered below subject",
+        "scale": "large"
+      },
+      "secondary_text": {
+        "font_vibe": "simple clean sans-serif",
+        "placement": "beneath primary text"
+      }
+    },
+    "color_palette": {
+      "primary": "bold reds, blacks, creams",
+      "accent": "warm golden food highlights"
+    },
+    "composition": {
+      "balance": "hero subject centered with strong color division",
+      "focus": "large, dominant, appetizing subject"
+    }
+  }
+}

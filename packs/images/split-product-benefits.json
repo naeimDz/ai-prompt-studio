@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "id": "split-product-benefits",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "product",
+      "commercial",
+      "clean-beauty",
+      "educational",
+      "ads"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Split Product + Benefit Explainer",
+    "goal": "Generate clean, commercial product visuals combining product photography with clear benefit explanations"
+  },
+
+  "content": {
+    "scene_description": "A translucent amber glass dropper bottle filled with golden oil, tilted slightly to the left. The bottle has a shiny metallic gold collar and a white rubber bulb.",
+    "overlay_text": "Badge: 'RESULTS'. Headline: 'Vitamin C Brightening Oil'. Feature List: 1. 'Visibly reduces discoloration', 2. 'Nourishes and protects against free radicals', 3. 'Reduces the appearance of fine lines and wrinkles'."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "radiant clean beauty product photography, fresh, commercial, educational and airy",
+    "subject_style": {
+      "outline": "none, photorealistic product shot with high-gloss reflections",
+      "pose_vibe": "dynamic tilt catching the light to show liquid viscosity"
+    },
+    "background_style": {
+      "type": "clean white surface with a soft yellow geometric circle behind the product",
+      "lighting": "natural sunlight simulation with dappled leaf-like shadows"
+    },
+    "text_style": {
+      "placement": "headline and badge at top, vertical list of benefits on the right",
+      "font_vibe": "editorial serif for headline, clean sans-serif for body text",
+      "extra_elements": "pill-shaped yellow background behind the RESULTS badge"
+    },
+    "illustrative_elements": {
+      "doodles": "circular icon badges with simple line art",
+      "integration": "icons aligned with benefit list as visual bullets"
+    },
+    "color_palette": {
+      "tones": "warm amber, golden yellow, bright white, dark brown typography",
+      "contrast": "bright and airy with strong text contrast"
+    },
+    "composition": {
+      "framing": "product on the left, information on the right",
+      "depth": "natural shadows creating subtle depth"
+    }
+  }
+}

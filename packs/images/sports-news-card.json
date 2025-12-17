@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "id": "sports-news-card",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "sports",
+      "news",
+      "editorial",
+      "media",
+      "broadcast",
+      "headline"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Full-Bleed Sports Image + News Hierarchy",
+    "goal": "Create dynamic sports news visuals with clear editorial hierarchy"
+  },
+
+  "content": {
+    "scene_description": "A powerful blue rally car drifting through a dusty turn.",
+    "headline_text": "RALLY CHAMPIONSHIP SEASON KICKS OFF IN STYLE",
+    "subheadline_text": "by Jordan Myers, Trackside Correspondent",
+    "category_label": "MOTORSPORT"
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "dynamic sports editorial layout",
+    "image_style": {
+      "placement": "full-bleed background",
+      "motion": "high-speed action"
+    },
+    "overlay_effects": {
+      "bottom_gradient": "dark-to-transparent"
+    },
+    "text_style": {
+      "headline_font": "bold condensed sans-serif",
+      "subheadline_font": "light sans-serif"
+    },
+    "color_palette": {
+      "primary": "white, black, yellow",
+      "contrast": "high energy"
+    },
+    "composition": {
+      "hierarchy": "category → headline → subheadline",
+      "alignment": "left-aligned"
+    }
+  }
+}

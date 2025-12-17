@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "id": "editorial-content-poster",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "editorial",
+      "typography",
+      "content",
+      "modern",
+      "branding"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Structured Editorial Content Poster",
+    "goal": "Present inspirational editorial content using strong typographic hierarchy and clean layouts"
+  },
+
+  "content": {
+    "image_subject": "A neatly arranged set of stationery items on a pastel background.",
+    "headline_text": "creativity starts here.",
+    "subheading_text": "unlock your potential.",
+    "body_text": "Every idea begins with a spark..."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "clean modern editorial with bold typography",
+    "layout": {
+      "structure": "image block + headline + subheading + body"
+    },
+    "background_style": {
+      "color": "deep charcoal",
+      "texture": "smooth matte"
+    },
+    "composition": {
+      "spacing": "generous margins and padding",
+      "balance": "high contrast typography"
+    }
+  }
+}

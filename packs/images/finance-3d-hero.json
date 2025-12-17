@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "finance-3d-hero",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "finance",
+      "corporate",
+      "3d",
+      "investment",
+      "premium",
+      "ads"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Central 3D Symbol + Corporate Message",
+    "goal": "Create premium finance visuals using symbolic 3D elements and strong corporate messaging"
+  },
+
+  "content": {
+    "scene_description": "A black and gold 3D dartboard hit by an arrow, surrounded by gold coins and percentage symbols.",
+    "overlay_text": "Headline: 'ACHIEVE YOUR FINANCIAL GOALS'. Body text about investment success."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "luxurious corporate finance advertisement",
+    "subject_style": {
+      "outline": "none",
+      "pose_vibe": "floating dynamic 3D composition"
+    },
+    "background_style": {
+      "type": "dark abstract gradient with city silhouette",
+      "lighting": "dramatic focused lighting"
+    },
+    "text_style": {
+      "placement": "centered headline top, body bottom",
+      "font_vibe": "bold modern sans-serif"
+    },
+    "color_palette": {
+      "tones": "black, charcoal, gold, white",
+      "contrast": "high and dramatic"
+    },
+    "composition": {
+      "framing": "central hero framed by abstract shapes",
+      "depth": "3D subject over flat graphic layers"
+    }
+  }
+}

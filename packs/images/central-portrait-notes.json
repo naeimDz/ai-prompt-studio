@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "id": "central-portrait-notes",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "scrapbook",
+      "handwritten",
+      "editorial",
+      "lifestyle",
+      "list-poster",
+      "instagram"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Central Portrait + Distributed Notes",
+    "goal": "Generate cozy scrapbook-style list posters with a central subject and handwritten notes around it"
+  },
+
+  "content": {
+    "center_image_description": "A smiling traveler wearing a beanie and backpack.",
+    "title_text": "Camping Essentials",
+    "text_theme_description": "Things to never forget when going on a camping trip."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5",
+    "auto_generate_text_items": true,
+    "number_of_generated_items": 10
+  },
+
+  "style": {
+    "overall_vibe": "cozy, handwritten, diary-style aesthetic on grid notebook paper, with doodles and handwritten notes scattered around a central cut-out portrait",
+    "background": {
+      "type": "light grid paper",
+      "texture": "soft, minimal, notebook-style"
+    },
+    "center_image": {
+      "placement": "centered",
+      "style": "cut-out portrait with soft shadow",
+      "border": "subtle white outline for separation"
+    },
+    "title_style": {
+      "font_vibe": "handwritten cursive or brush pen",
+      "size": "large",
+      "color": "black",
+      "placement": "top center",
+      "extra_accents": "small red doodle marks around the title"
+    },
+    "generated_text_items_style": {
+      "font_vibe": "handwritten casual print, black ink",
+      "distribution": "scattered naturally around all sides of the center image",
+      "spacing": "varied, organic",
+      "line_accents": "red underline, circles, arrows, stars, asterisks",
+      "tone": "friendly, personal, diary-like phrasing",
+      "length_per_item": "short phrases or one short sentence each"
+    },
+    "doodles": {
+      "colors": ["red", "black"],
+      "types": ["arrows", "spark lines", "underlines", "circles", "asterisks", "stars"],
+      "placement": "mixed between text items to create a dynamic scrapbook look"
+    },
+    "color_palette": {
+      "primary": "black ink",
+      "accent": "bright red marker",
+      "background": "off-white with grid lines"
+    },
+    "composition": {
+      "balance": "central focus with text evenly spaced around the subject",
+      "style": "casual, scrapbook-like, playful but clean"
+    }
+  }
+}

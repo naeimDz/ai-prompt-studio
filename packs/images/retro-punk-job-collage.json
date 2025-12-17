@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "retro-punk-job-collage",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "retro",
+      "punk",
+      "grunge",
+      "collage",
+      "recruitment",
+      "poster"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Retro Punk Grunge Job Collage",
+    "goal": "Create rebellious mixed-media collage posters with bold typography and ripped paper textures"
+  },
+
+  "content": {
+    "scene_description": "A close-up of a hand holding a red retro telephone receiver with the cord wrapped around the wrist. Bright red nail polish.",
+    "overlay_text": "Headline: 'New Job Openings'. Subtext: 'GET YOUR DREAM JOB NOW!'"
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "retro punk grunge mixed-media collage",
+    "subject_style": {
+      "outline": "thick white paper cut-out border",
+      "pose_vibe": "dynamic diagonal composition"
+    },
+    "background_style": {
+      "type": "crumpled black paper with torn red paper layer",
+      "lighting": "flat scanned-art lighting with harsh edge shadows"
+    },
+    "text_style": {
+      "placement": "dominant headline at top, block text bottom-right",
+      "font_vibe": "italic editorial serif + heavy sans-serif"
+    },
+    "illustrative_elements": {
+      "doodles": "chaotic white scribbles and sound-wave lines",
+      "integration": "drawn directly over paper layers"
+    },
+    "composition": {
+      "framing": "diagonal subject cutting across frame",
+      "depth": "2.5D ripped paper effect"
+    }
+  }
+}

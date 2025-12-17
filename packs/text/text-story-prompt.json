@@ -1,0 +1,28 @@
+{
+    "name": "Text Story Prompt Pack",
+    "description": "A collection of text-based story prompts to inspire your creativity.",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "prompts": [
+        {
+            "title": "The Mysterious Letter",
+            "prompt": "You receive a letter in the mail with no return address. Inside, there's a cryptic message that leads you on an unexpected adventure. Describe your journey and the discoveries you make along the way."
+        },
+        {
+            "title": "A Day in the Life of a Time Traveler",
+            "prompt": "Imagine you are a time traveler who can visit any era in history. Write about a day in your life as you navigate the challenges and wonders of a different time period."
+        },
+        {
+            "title": "The Forgotten Village",
+            "prompt": "You stumble upon a hidden village that seems to have been forgotten by time. Describe the people, culture, and secrets of this mysterious place."
+        },
+        {
+            "title": "The Last Book on Earth",
+            "prompt": "In a world where physical books have become extinct, you find the last remaining book. Write about its contents and the impact it has on society."
+        },
+        {
+            "title": "A Conversation with Your Future Self",
+            "prompt": "You have the opportunity to speak with your future self. Write about the advice they give you and how it changes your perspective on life."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "id": "radial-wellness-zine",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "wellness",
+      "zine",
+      "scrapbook",
+      "flat-lay",
+      "gen-z",
+      "editorial"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "Radial Wellness Zine Collage",
+    "goal": "Create zine-style wellness collages with radial flat-lay compositions framing central typography"
+  },
+
+  "content": {
+    "scene_description": "A flat-lay collage of wellness items arranged in a circle around the center: black over-ear headphones, a pair of black running shoes, a glass jar of bath salts, a rolled blue yoga mat, a toothbrush cup with soap, and dumbbells with a water bottle.",
+    "overlay_text": "Headline: 'THE SELF CARE GUIDE'. Subtext: 'Our best tips, product recommendations & recipes for wellness & self love!'"
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "zine-style digital scrapbook, casual, textured, Gen Z wellness aesthetic",
+    "subject_style": {
+      "outline": "photographic cut-outs with soft purple/lilac glow creating a sticker effect",
+      "pose_vibe": "flat-lay elements forming a circular frame"
+    },
+    "background_style": {
+      "type": "white crumpled paper texture",
+      "lighting": "flat even lighting"
+    },
+    "text_style": {
+      "placement": "center-aligned stacked typography",
+      "font_vibe": "modern sans-serif with varied weights"
+    },
+    "illustrative_elements": {
+      "doodles": "thin black ink doodles (stars, spirals, scribbles)",
+      "integration": "sketched directly onto paper texture"
+    },
+    "composition": {
+      "framing": "radial object framing around central text",
+      "depth": "flat 2D collage look"
+    }
+  }
+}

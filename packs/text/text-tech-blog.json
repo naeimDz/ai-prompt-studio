@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "id": "text-tech-blog",
+    "type": "text",
+    "tags": ["tech","blog","tutorial","AI","coding"]
+  },
+  "intent": {
+    "pattern_name": "Technical Blog Assistant",
+    "goal": "Generate clear, structured technical content for blogs or tutorials",
+    "context": "Software engineering, AI, DevOps, programming guides"
+  },
+  "settings": {
+    "tone": "informative, clear, structured",
+    "length": "medium-form (3-6 sentences or paragraphs)"
+  }
+}

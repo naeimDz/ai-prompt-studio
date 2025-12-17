@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "id": "3d-gold-investing-infographic",
+    "type": "image",
+    "status": "stable",
+    "tags": [
+      "finance",
+      "3d",
+      "infographic",
+      "luxury",
+      "education"
+    ]
+  },
+
+  "intent": {
+    "pattern_name": "3D Financial Infographic",
+    "goal": "Explain financial concepts using premium 3D visuals and structured text layouts"
+  },
+
+  "content": {
+    "scene_description": "A 3D illustration of gold bars on a podium with floating coins and ribbons.",
+    "overlay_text": "Headline and three numbered educational points about investing in gold."
+  },
+
+  "settings": {
+    "aspect_ratio": "4:5"
+  },
+
+  "style": {
+    "overall_vibe": "luxurious commercial 3D financial aesthetic",
+    "subject_style": {
+      "outline": "none, high-quality 3D render",
+      "pose_vibe": "staged with dynamic floating elements"
+    },
+    "background_style": {
+      "type": "cream wall with subtle chevron texture",
+      "lighting": "soft golden studio lighting"
+    },
+    "text_style": {
+      "placement": "headline top-left, list items beneath",
+      "font_vibe": "clean modern sans-serif with metallic accents"
+    },
+    "composition": {
+      "framing": "text top-left, visuals bottom-right",
+      "depth": "clear foreground 3D separation"
+    }
+  }
+}
